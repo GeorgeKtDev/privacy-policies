@@ -13,7 +13,7 @@ This repository hosts the privacy policies for my mobile applications.
 - **Fantasy Roll**  
   [View Privacy Policy](https://georgektdev.github.io/privacy-policies/fantasy-roll-privacy.html)
 
-  - **Thetia**  
+- **Thetia**  
   [View Privacy Policy](https://georgektdev.github.io/privacy-policies/thetia-privacy.html)
 ---
 For any questions, please contact: **george.ot.dev@gmail.com**
